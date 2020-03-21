@@ -1,0 +1,5 @@
+как скачать dlib https://github.com/ageitgey/face_recognition/issues/802#issuecomment-543736261
+imutils
+opencv-python
+https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
