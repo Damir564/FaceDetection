@@ -4,4 +4,16 @@ https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-p
 
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 - это нужно скачать
 
-команда: python detect_face_parts.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/example_03.jpg
+1) скачать python 3.6.8 и добавить в PATH. В PATH сделать его выше других Питонов
+2) pip install imutils
+pip install numpy
+pip install opencv-python
+3) По этой инструкции с цифры 2 https://github.com/ageitgey/face_recognition/issues/8..
+у него : (ник)venkateshvelaga
+4)Скачать файл shape_predictor_68_face_landmarks.dat по ссылке с гит-хаба(она обновлена)
+5) в папку с кодом добавиь этот .dat файл
+6) в этой же папке должна быть папка images
+7) для использования нужно открыть cmd в этой же папке с помощью shift + ПКМ
+и написать команду:
+
+python FaceDetection.py —shape-predictor shape_predictor_68_face_landmarks.dat
