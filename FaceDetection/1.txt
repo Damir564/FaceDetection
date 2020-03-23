@@ -16,4 +16,4 @@ pip install opencv-python
 7) для использования нужно открыть cmd в этой же папке с помощью shift + ПКМ
 и написать команду:
 
-python FaceDetection.py —shape-predictor shape_predictor_68_face_landmarks.dat
+python FaceDetection.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/example_03.jpg
