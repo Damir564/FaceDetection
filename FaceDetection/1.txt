@@ -1,5 +1,7 @@
-посты, где всё брал:
+посты, где брал код. Они от одного и того же человека, отличие в выводе результата:
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
 
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 - это нужно скачать
+
+команда: python detect_face_parts.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/example_03.jpg
