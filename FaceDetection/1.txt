@@ -8,7 +8,7 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 - это нуж�
 2) pip install imutils
 pip install numpy
 pip install opencv-python
-3) По этой инструкции с цифры 2 https://github.com/ageitgey/face_recognition/issues/8..
+3) По этой инструкции с цифры 2 https://github.com/ageitgey/face_recognition/issues/802#issuecomment-547242806
 у него : (ник)venkateshvelaga
 4)Скачать файл shape_predictor_68_face_landmarks.dat по ссылке с гит-хаба(она обновлена)
 5) в папку с кодом добавиь этот .dat файл
